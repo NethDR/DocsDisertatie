@@ -11,12 +11,14 @@
             "id": "aae761b8014cc875",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imgs/3Player_.png"
+                "file": "Map generation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "3Player_"
+              "icon": "lucide-file",
+              "title": "Map generation"
             }
           }
         ]
@@ -173,22 +175,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f94465813457403",
+  "active": "aae761b8014cc875",
   "lastOpenFiles": [
-    "Map generation.md",
     "Factions.md",
+    "AI.md",
     "Index.md",
-    "Resources.md",
+    "Multiplayer.md",
+    "Structures.md",
+    "Map generation.md",
     "Imgs/3Player_.png",
+    "Resources.md",
     "Imgs",
     "Imgs/FullMapGraph.png",
     "Imgs/PlayerSideGraph.png",
     "PlayerSideGraph.png~RF10ed339f.TMP",
     "PlayerSideGraph.png.~tmp",
     "Player Side Graph.drawio.png",
-    "AI.md",
-    "Multiplayer.md",
-    "Structures.md",
     "latex/Resources.synctex.gz",
     "latex/Resources.pdf",
     "latex/Resources.tex",
