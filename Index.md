@@ -1,0 +1,7 @@
+[[Map generation]]
+[[Resources]]
+[[Units]]
+[[Structures]]
+[[Factions]]
+[[AI]]
+[[Multiplayer]]
