@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a1604b1318cbbc42",
+        "id": "dbe680be4d0dff5c",
         "type": "tabs",
         "children": [
           {
-            "id": "aae761b8014cc875",
+            "id": "6ff7e9edeff0e47b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3Player_.png"
+                "file": "Map generation.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3Player_"
+              "title": "Outline of Map generation"
             }
           },
           {
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 774.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,19 +172,27 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "aae761b8014cc875",
+  "active": "6ff7e9edeff0e47b",
   "lastOpenFiles": [
     "Factions.md",
     "AI.md",
-    "Index.md",
-    "Multiplayer.md",
-    "Structures.md",
+    "Readme.md",
     "Map generation.md",
-    "Imgs/3Player_.png",
     "Resources.md",
+    "Multiplayer.md",
+    "latex/Resources.pdf",
+    "Prototyping Priorities.md",
+    "Units.md",
+    "Units-Examples from other games.md",
+    "Upgrades.md",
+    "Excalidraw/Drawing 2024-11-17 14.34.38.excalidraw.md",
+    "Excalidraw",
+    "Structures.md",
+    "Imgs/3Player_.png",
     "Imgs",
     "Imgs/FullMapGraph.png",
     "Imgs/PlayerSideGraph.png",
@@ -192,11 +200,9 @@
     "PlayerSideGraph.png.~tmp",
     "Player Side Graph.drawio.png",
     "latex/Resources.synctex.gz",
-    "latex/Resources.pdf",
     "latex/Resources.tex",
     "latex",
     "New folder",
-    "Units.md",
     "Welcome.md"
   ]
 }
