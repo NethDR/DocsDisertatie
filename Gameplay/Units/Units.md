@@ -6,6 +6,7 @@
 * Active abilities should provide meaningful effects beyond stat boosts/reductions, and the number of unit types with active abilities should be kept to a minimum (i.e. do not give active abilities to almost every unit)
 * Time-To-Kill should not be too low, to reward strategic positioning/repositioning of units and constructing appropriate unit compositions over speed of execution.
 * While they provide a new tactical dimension, air units will be skipped due to the challenges they bring in map design.
+
 # General Overview
 
 Units will be conceptually divided into three "tiers".
