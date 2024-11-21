@@ -24,3 +24,6 @@ Extension of previous graph for 2 players, the full Alcyone map.
 ![](/Imgs/3Player_.png)
 
 Possible layout for a "3 Player Alcyone"
+
+
+Graph generation could be based on (Delaunay triangulation)[https://en.wikipedia.org/wiki/Delaunay_triangulation]
